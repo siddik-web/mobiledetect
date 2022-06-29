@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension  version="3.1" type="plugin" group="system" method="upgrade">
+	<name>plg_system_mobiledetect</name>
+	<author>Md Siddiqur Rahman</author>
+	<creationDate>July 2022</creationDate>
+	<copyright>(C) 2022 Md Siddiqur Rahman.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>siddikcoder@gmail.com</authorEmail>
+	<authorUrl>https://siddiqur.com</authorUrl>
+	<version>1.0.0</version>
+	<description>Mobile Detect Plugin</description>
+	<files>
+		<filename plugin="mobiledetect">mobiledetect.php</filename>
+	</files>
+
+</extension>

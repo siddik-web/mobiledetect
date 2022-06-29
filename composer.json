@@ -1,0 +1,20 @@
+{
+    "name": "siddik-web/mobiledetect",
+    "description": "Joomla Mobile Detect Plugin",
+    "type": "joomla-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SiddikWeb\\Mobiledetect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Siddiqur Rahman",
+            "email": "siddikcoder@gmail.com"
+        }
+    ],
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    }
+}
