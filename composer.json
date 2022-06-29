@@ -1,6 +1,6 @@
 {
     "name": "siddik-web/mobiledetect",
-    "description": "Joomla Mobile Detect Plugin",
+    "description": "Mobile Detect Wrapper Class Plugin for Joomla 3 & 4",
     "type": "joomla-plugin",
     "license": "MIT",
     "autoload": {
